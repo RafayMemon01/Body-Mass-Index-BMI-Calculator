@@ -1,0 +1,38 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.main{
+    margin-top: 10rem;
+}
+.heading{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+p{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.btn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.btn button{
+    background-color: blue;
+    width: 8rem;
+    height: 4rem;
+    border-radius: 2rem;
+    cursor: pointer;
+
+}
+.btn button a{
+    color: white;
+    text-decoration: none;
+}
+rafay{
+    position: fixed;
+top: 90%;    
+}

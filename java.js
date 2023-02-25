@@ -1,0 +1,7 @@
+let weight = prompt("Add your weight (kg)")
+let height = prompt("Add your height (m)")
+weight = Number(weight)
+height = Number(height)
+height = (height*height)
+let BMI=(weight/height)
+alert("Your BMI is: "+ BMI)
